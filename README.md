@@ -1,4 +1,5 @@
-# ecommerce-shop.
+# Ecommerce-store Product Page + Cart
+
 An Ecommerce Website With React JS And Tailwind CSS using Fake Store API
 
 ## Setup
